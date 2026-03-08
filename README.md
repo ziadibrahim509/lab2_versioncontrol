@@ -88,42 +88,6 @@ To add an image to README.md:
 
 
 
-Upload the image to the repo → commit changes.
-
-🔄 Working with Branches
-
-Checkout another branch without committing changes:
-
-git stash
-git checkout branch_name
-git stash pop
-
-Remove branches:
-
-git branch -d dev              # locally
-git push origin --delete dev   # remotely
-✅ Summary
-
-This project demonstrates:
-
-Proper branching and merging workflow
-
-Tagging versions of the project
-
-Staging, committing, and pushing changes
-
-Managing files and images on GitHub
-
-💡 Tip
-
-Use this README as a guide for labs or portfolio projects — it’s clean, professional, and fully GitHub-compatible.
-
-
----
-
-If you want, I can make a **next-level version** with a **clickable Table of Contents, colors, and extra emojis**, so it looks like a **portfolio-ready GitHub project**.  
-
-Do you want me to do that?
 
 
 
