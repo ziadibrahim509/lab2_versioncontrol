@@ -73,4 +73,5 @@ Delete tags:
 git tag -d v1.7               # locally
 git push origin --delete tag v1.7  # remotely
 
-![Alt text](image.png)
+![Alt text](image.PNG)
+
