@@ -81,8 +81,9 @@ git push origin --delete tag v1.7  # remotely
 5️⃣ Adding Images
 
 To add an image to README.md:
+<img width="739" height="226" alt="image" src="https://github.com/user-attachments/assets/f08a48c8-418c-4e06-baff-31bc6f2398ca" />
 
-<img width="739" height="226" alt="image" src="https://github.com/user-attachments/assets/5cda8395-d28f-4e0e-b12c-30aa74fd04a6" />
+
 
 
 
@@ -123,6 +124,7 @@ Use this README as a guide for labs or portfolio projects — it’s clean, prof
 If you want, I can make a **next-level version** with a **clickable Table of Contents, colors, and extra emojis**, so it looks like a **portfolio-ready GitHub project**.  
 
 Do you want me to do that?
+
 
 
 
