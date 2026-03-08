@@ -117,6 +117,8 @@ git push origin --delete tag v1.7  # remotely
 
 ```markdown
 ![Alt text](image.png)
+<img width="626" height="194" alt="image" src="https://github.com/user-attachments/assets/6bc52ce8-74e6-4260-8790-5128a2ed2e8c" />
+
 ```
 
 * Upload the image to the repo → commit changes.
@@ -165,3 +167,4 @@ If you want, I can make a **next-level version** with a **clickable Table of Con
 
 Do you want me to do that?
 ```
+
