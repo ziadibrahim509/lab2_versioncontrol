@@ -74,5 +74,6 @@ git tag -d v1.7               # locally
 git push origin --delete tag v1.7  # remotely
 
 ![Alt text](image.PNG)
-https://github.com/ziadibrahim509/lab2_versioncontrol/blob/main/image.PNG
+
+
 
